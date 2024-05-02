@@ -1,5 +1,5 @@
 /*
-    SIM7600.h - Library for the T-SIM7600 wireless networking module family.
+    SIM7600.h - Library for the SIM7600 wireless networking module family.
     Created by Nathan Hoekstra, May 2, 2024.
 */
 
