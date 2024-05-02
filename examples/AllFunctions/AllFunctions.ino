@@ -1,7 +1,7 @@
 /**************************************************************
  *
- * T-SIM7600X Getting Started guide:
- *   https://github.com/NathanHoekstra/T-SIM7600X/blob/master/README.md
+ * SIM7600X Getting Started guide:
+ *   https://github.com/NathanHoekstra/SIM7600X/blob/master/README.md
  *
  **************************************************************/
 
